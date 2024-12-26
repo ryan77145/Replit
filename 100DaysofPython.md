@@ -9,3 +9,6 @@
 
 #### Day 4 - Story Simulator
 ![Day4](https://github.com/user-attachments/assets/45532074-dbd0-4ac3-9acd-939ff75f7625)
+
+#### Day 5 - If/else entry 
+![Day5](https://github.com/user-attachments/assets/b131a991-31ba-48f3-a8bc-146377a01bdf)
