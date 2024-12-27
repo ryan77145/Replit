@@ -12,3 +12,6 @@
 
 #### Day 5 - If/else entry 
 ![Day5](https://github.com/user-attachments/assets/b131a991-31ba-48f3-a8bc-146377a01bdf)
+
+#### Day 6 - Elif statements - Finally figured out how to show all of my code working without multiple screenshots.. at least the short ones :laughing:
+![Day6](https://github.com/user-attachments/assets/4fe0a35c-f82a-425a-8169-116a402f68f0)
