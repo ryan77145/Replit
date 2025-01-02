@@ -21,3 +21,6 @@
 
 #### Day 8 - Nested if statements project 
 ![Day8](https://github.com/user-attachments/assets/8da55770-925c-4507-842d-7b8e4c2fb318)
+
+#### Day 9 - Int and Float introduction
+![Day9](https://github.com/user-attachments/assets/e9a51ee3-a471-4c4b-83df-205b3d421f46)
