@@ -18,3 +18,6 @@
 
 #### Day 7 - Nested if statements - Really enjoyed learning this concept and wrote the game code with only one minor error - double ran code to show both sides working :grinning:
 ![Day7](https://github.com/user-attachments/assets/c43e1e79-2acb-4155-8fb6-1ad78a2a87ba)
+
+#### Day 8 - Nested if statements project 
+![Day8](https://github.com/user-attachments/assets/8da55770-925c-4507-842d-7b8e4c2fb318)
