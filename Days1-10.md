@@ -24,3 +24,7 @@
 
 #### Day 9 - Int and Float introduction
 ![Day9](https://github.com/user-attachments/assets/e9a51ee3-a471-4c4b-83df-205b3d421f46)
+
+#### Day 10 - Math Problems
+![Day10](https://github.com/user-attachments/assets/1d5442d7-3a1e-4929-894d-ba9a9796e5c5)
+
